@@ -81,7 +81,8 @@ IDE : Eclipse
 
 <img width="633" alt="signup" src="https://github.com/daylee619/web_mybatis_project/assets/110576332/23532930-b4e2-4857-af13-1aaaaab8635a">
 
-
+<br>
+<br>
 <img width="624" alt="signin" src="https://github.com/daylee619/web_mybatis_project/assets/110576332/93fdc910-8f87-4ecf-896d-5ce28302225d">
 
 
@@ -90,17 +91,16 @@ IDE : Eclipse
 <br>
   
 ### 게시판
-  
+<br>
+<br>
   - 게시판 글쓰기
-  
-  - 게시판 리스트
-
-<br>
-<br>
-
+ <br> 
 <img width="490" alt="boardCreate" src="https://github.com/daylee619/web_mybatis_project/assets/110576332/c5fff852-dcc8-496e-8e87-3a036b3d4798">
 
-
+<br>
+<br>
+ - 게시판 리스트
+ <br>
 <img width="621" alt="boardList" src="https://github.com/daylee619/web_mybatis_project/assets/110576332/3a396106-2605-44f7-bb88-a47d16b9b775">
     
     
