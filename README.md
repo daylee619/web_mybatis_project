@@ -3,8 +3,6 @@
 
 ## 헬린이들
 
-
-<br>
 <br>
 
 ## 🎈 개발 개요
@@ -94,13 +92,15 @@ IDE : Eclipse
 <br>
 <br>
   - 게시판 글쓰기
- <br> 
+<br> 
+<br>
 <img width="490" alt="boardCreate" src="https://github.com/daylee619/web_mybatis_project/assets/110576332/c5fff852-dcc8-496e-8e87-3a036b3d4798">
 
 <br>
 <br>
  - 게시판 리스트
  <br>
+<br>
 <img width="621" alt="boardList" src="https://github.com/daylee619/web_mybatis_project/assets/110576332/3a396106-2605-44f7-bb88-a47d16b9b775">
     
     
