@@ -89,8 +89,6 @@ IDE : Eclipse
 <br>
   
 ### 게시판
-<br>
-<br>
   - 게시판 글쓰기
 <br> 
 <br>
